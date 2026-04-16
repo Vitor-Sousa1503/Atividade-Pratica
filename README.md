@@ -73,6 +73,6 @@ Nossa primeira Wiki no GitHub.
 **Ex:** find .name "arquivo.txt"
 
 ## 15° reboot
-**Reinicia o sistema*
+**Reinicia o sistema**
 
 **Ex:** reboot
